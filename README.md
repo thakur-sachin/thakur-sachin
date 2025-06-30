@@ -1,12 +1,7 @@
-- 👋 Hi, I am Sachin Thakur, a graduate mechanical engineering student at Columbia University and did my bachelor's from BITS Pilani
-- 👀 I’m interested in building hardware, software, and everything in between related to robots. Always ready to learn whatever life throws at me
-- 🌱 I’m currently learning ROS2 with C++
+- 👋 Hi, I am Sachin Thakur, a graduate mechanical engineering student from Columbia University and did my bachelor's from BITS Pilani. I currently work as a ML Scientist.
+- 👀 I’m interested in building hardware, software, and everything in between related to robots. Always ready to learn whatever life throws at me and then some more.
+- 🌱 I’m currently learning Isaac Sim and Isaac Lab for robotic manipulation and sim to real using ROS2 and python.
 - 💞️ I’m looking to collaborate on a project that utilizes multiple features from ROS2 including but not limited to Gazebo, SLAM, and Path-Planning
 - 📫 To reach me, please contact me via email- sachint.2306@gmail.com (I reply very quickly)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love playing any sport and going to the gym
-
-<!---
-thakur-sachin/thakur-sachin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
